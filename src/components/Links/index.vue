@@ -47,33 +47,33 @@ const linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.pwolf.site/home",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://driver.pwolf.tk/",
   },
-  {
-    icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
-  },
-  {
-    icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
-  },
-  {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
-  },
+//  {
+//    icon: CompactDisc,
+//    name: "音乐",
+//    link: "https://music.imsyy.top/",
+//  },
+//  {
+//    icon: Compass,
+//    name: "起始页",
+//    link: "https://nav.imsyy.top/",
+// },
+//  {
+//    icon: Book,
+//    name: "网址集",
+//    link: "https://web.imsyy.top/",
+//  },
+//  {
+//    icon: Fire,
+//    name: "今日热榜",
+//    link: "https://hot.imsyy.top/",
+//  },
 ];
 
 // 链接跳转
